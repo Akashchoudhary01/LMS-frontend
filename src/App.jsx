@@ -1,11 +1,13 @@
-
 import './App.css'
+import { Routes } from 'react-router-dom'
 
 function App() {
  
   return (
     <>
-      <h1>Jai shree ram</h1>
+      <Routes>
+
+      </Routes>
     </>
   )
 }

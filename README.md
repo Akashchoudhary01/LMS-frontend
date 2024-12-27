@@ -15,6 +15,18 @@
 
  ```
    npi i
+    "eslint/js",
+    "types/react",
+    "types/react-dom",
+    "vitejs/plugin-react",
+    "eslint",
+    "eslint-plugin-react",
+    "eslint-plugin-react-hooks",
+    "eslint-plugin-react-refresh",
+    "globals",
+    "tailwindcss",
+    "vite"
+    "eslint-plugin-simple-import-sort"
  ```
 
  4. run the server
